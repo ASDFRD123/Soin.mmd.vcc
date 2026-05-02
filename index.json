@@ -1,27 +1,17 @@
 {
-    "name":"Soin.MMD",
-    "id":"com.SoinMMD.Assets",
-    "url":"https://raw.githubusercontent.com/ASDFRD123/Soin.mmd.vcc/refs/heads/main/index.json",
-    "author":{
-        "email":"developer@vrchat.com",
-        "name":"VRChat",
-        "url":"https://hello.vrchat.com"
-    },
-    "description":"Example listing of VRChat packages",
-    "infoLink":{
-        "url":"https://github.com/ASDFRD123/Soin.mmd.vcc/releases/download/nya/MMD.zip",
-        "text":"View on GitHub"
-    },
-    "bannerUrl":"banner.png",
-    "githubRepos":[
-        "vrchat-community/clientsim"
-    ],
-    "packages":[
-        {
-            "name":"com.SoinMMD.myassets",
-            "releases":[
-                "https://github.com/ASDFRD123/Soin.mmd.vcc/releases/download/nya/MMD.zip"
-            ]
+  "name": "내 커스텀 저장소",
+  "author": "내닉네임",
+  "url": "https://나의-깃허브-주소/index.json",
+  "packages": {
+    "com.yourname.myassets": {
+      "versions": {
+        "1.0.0": {
+          "name": "com.yourname.myassets",
+          "displayName": "내 애니메이션과 음악팩",
+          "version": "1.0.0",
+          "url": "https://나의-깃허브-주소/내파일.zip"
         }
-    ]
+      }
+    }
+  }
 }
