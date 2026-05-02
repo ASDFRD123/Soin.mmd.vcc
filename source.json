@@ -1,7 +1,7 @@
 {
-    "name":"Example Listing",
-    "id":"com.vrchat.example-listing",
-    "url":"https://vrchat-community.github.io/template-package-listing/index.json",
+    "name":"Soin.MMD",
+    "id":"com.SoinMMD.Assets",
+    "url":"https://ASDFRD123.github.io/Soin.mmd.vcc/index.json",
     "author":{
         "email":"developer@vrchat.com",
         "name":"VRChat",
@@ -9,7 +9,7 @@
     },
     "description":"Example listing of VRChat packages",
     "infoLink":{
-        "url":"http://github.com/vrchat-community/template-package-listing",
+        "url":"https://github.com/ASDFRD123/Soin.mmd.vcc/releases/download/nya/MMD.zip",
         "text":"View on GitHub"
     },
     "bannerUrl":"banner.png",
@@ -18,10 +18,9 @@
     ],
     "packages":[
         {
-            "name":"com.vrchat.udonsharp",
+            "name":"com.SoinMMD.myassets",
             "releases":[
-                "https://github.com/vrchat-community/UdonSharp/releases/download/1.1.7/com.vrchat.UdonSharp.zip",
-                "https://github.com/vrchat-community/UdonSharp/releases/download/1.1.6/com.vrchat.UdonSharp-1.1.6.zip"
+                "https://github.com/ASDFRD123/Soin.mmd.vcc/releases/download/nya/MMD.zip"
             ]
         }
     ]
